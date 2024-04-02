@@ -1,0 +1,28 @@
+.header {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: _middle;
+}
+.introduction {
+    font-family: 'Times New Roman', Times, serif;
+    padding: 0;
+    margin: 0;
+}
+.skills {
+    font-size: 30px;
+    background-color: burlywood;
+    padding: 20px;
+    margin: 20px;
+}
+.skills ul {
+    list-style: none;
+    padding: 0;
+    margin: 20px;
+}
+.skills li {
+    border: 1px solid #444;
+    color: white;
+    padding: 5px;
+    margin-top: 5px;
+    text-align: center;
+
+}
